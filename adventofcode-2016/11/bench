@@ -1,0 +1,12 @@
+with break:
+
+iterations: 100000
+depth: 10
+unique states searched: 28117
+states remaining: 36293
+
+iterations: 100000
+depth: 10
+unique states searched: 28184
+states remaining: 38218
+
